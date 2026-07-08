@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6t0023/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0023/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0023_001-T.yaml, hash: 'sha256:cffe5ac7e3ceaa35d78e488dae036369ec4d84ddef6ef1f0f6e22a6cfdf5d355'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0023_001-T.markers.yaml, hash: 'sha256:dbc961d99a54732f0a77acbeca26f5c9615b1d784917292064221135ad07d791'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 43656
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6t0023_T_001-0014c09.h.1
+    span:
+    - body
+    - 0
+    - 43656
+  label: 華嚴一乘義私記
+  type: section
+  level: 2
+metadata:
+  title: 華嚴一乘義私記
+  identifiers:
+    krp: KR6t0023
+    canon: T
+    vol: '72'
+    'no': '2327'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0023.xml
+  edition:
+    short: T
+hash: sha256:569fe1a6c35eb64b5c1bf970bfce865dd0cc9211e2043b853266732a80e75760
