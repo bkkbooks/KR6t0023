@@ -7,7 +7,7 @@ assets:
   parts:
   - {seq: 1, filename: KR6t0023_001-T.yaml, hash: 'sha256:cffe5ac7e3ceaa35d78e488dae036369ec4d84ddef6ef1f0f6e22a6cfdf5d355'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6t0023_001-T.markers.yaml, hash: 'sha256:dbc961d99a54732f0a77acbeca26f5c9615b1d784917292064221135ad07d791'}
+  - {seq: 1, role: markers, filename: assets/KR6t0023_001-T.markers.yaml, hash: 'sha256:38329d44ccdab1fae28d17e11ff1a6355697c1d9653f2ea446bc83e217bf6585'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,4 @@ metadata:
     path: data/tls/KR6t0023.xml
   edition:
     short: T
-hash: sha256:569fe1a6c35eb64b5c1bf970bfce865dd0cc9211e2043b853266732a80e75760
+hash: sha256:fc7c89e7eb6e5e3e8f36989cdd322593061ee51c6138ce89d3710072f3776aef
